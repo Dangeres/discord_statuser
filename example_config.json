@@ -1,0 +1,8 @@
+{
+    "channel_id": -100,
+    "token": "token",
+    "statuses": [
+        "status1",
+        "status2"
+    ]
+}
